@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: LANDLORD-SERVICES
+
 eureka:
   instance:
     prefer-ip-address: true
