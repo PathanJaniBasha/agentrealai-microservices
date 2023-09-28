@@ -1,6 +1,6 @@
 spring:
   application:
-    name: LANDLORD-SERVICES
+    name: Prod - LANDLORD-SERVICES
 
 eureka:
   instance:
